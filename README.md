@@ -1,4 +1,4 @@
-# Pix2Pix in Pytorch
+# Pix2Pix in Tensorflow
 
 Study Friendly Implementation of Pix2Pix in Tensorflow
 
