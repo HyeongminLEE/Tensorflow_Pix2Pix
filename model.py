@@ -18,8 +18,9 @@ class batch_norm(object):
                                             epsilon=self.epsilon,
                                             scale=True,
                                             is_training=train,
-                                            scope=self.name,
-                                            reuse=tf.AUTO_REUSE
+                                            scope=self.name
+                                            # if tensorflow vesrion > 1.2.0, activate following line
+                                            # ,reuse=tf.AUTO_REUSE
                                             )
 
 
