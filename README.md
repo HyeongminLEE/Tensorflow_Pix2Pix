@@ -16,7 +16,7 @@ Identical Pytorch Implemenation will be uploaded on [taeoh-kim's Github](https:/
 
 - Windows 10
 - Python 3.5.3 (Anaconda)
-- Tensorflow 1.0.0
+- Tensorflow 1.4.0
 - Numpy 1.13.1
 
 ## 2. Code Description
