@@ -2,9 +2,7 @@
 
 Study Friendly Implementation of Pix2Pix in Tensorflow
 
-More Information: [Original Paper](https://arxiv.org/pdf/1611.07004v1.pdf)
-
-Identical Pytorch Implemenation will be uploaded on [taeoh-kim's Github](https://github.com/taeoh-kim/Pytorch_Pix2Pix)
+[[Paper](https://arxiv.org/pdf/1611.07004v1.pdf) | [Post(in Korean)](https://hyeongminlee.github.io/post/gan004_pix2pix/) | [Pytorch Version](https://github.com/taeoh-kim/Pytorch_Pix2Pix)]
 
 - GAN: [[Pytorch](https://github.com/taeoh-kim/GANin50lines)][[Tensorflow](https://github.com/HyeongminLEE/GANin50lines)]
 - DCGAN: [[Pytorch](https://github.com/taeoh-kim/Pytorch_DCGAN)][[Tensorflow](https://github.com/HyeongminLEE/Tensorflow_DCGAN)]
